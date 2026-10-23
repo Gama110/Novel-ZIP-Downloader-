@@ -1,0 +1,6 @@
+condb.php
+assets/errors/
+assets/tmp/
+assets/downloads/*.zip
+.DS_Store
+Thumbs.db
